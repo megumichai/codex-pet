@@ -1,7 +1,7 @@
-@import "the-new-css-reset/css/reset.css";
+@import 'the-new-css-reset/css/reset.css';
 
 :root {
-  --font-sans: "Inter Variable", sans-serif;
+  --font-sans: 'Inter Variable', sans-serif;
 }
 
 body {

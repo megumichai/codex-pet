@@ -1,5 +1,5 @@
-import "./globals.css";
+import './globals.css'
 
-export const a = "A";
+export const a = 'A'
 
-console.log("Hello World");
+console.log('Hello World')
